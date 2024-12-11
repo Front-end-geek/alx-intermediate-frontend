@@ -1,0 +1,4 @@
+# steps taken to install SASS
+
+write this command in terminal
+npm install sass -v 3.7.4
